@@ -4,13 +4,13 @@
 
 ## Table of Contents:
 
-- [Problem Statement](#problem_Statement)
+- [Problem Statement](#Problem-Statement)
 - [Datasource](#datasource)
-- [Data Preparation](https://github.com/yogeshkasar778/PWC_task_2-Customer_Churn_Retension_dashboard/edit/main/README.md#data-preparation)
-- [Data Modeling](https://github.com/yogeshkasar778/PWC_task_2-Customer_Churn_Retension_dashboard/edit/main/README.md#data-modeling)
-- [Data Analysis (DAX)](https://github.com/yogeshkasar778/PWC_task_2-Customer_Churn_Retension_dashboard/edit/main/README.md#data-analysis-dax)
-- [Data Visualization (Dashboard)](https://github.com/yogeshkasar778/PWC_task_2-Customer_Churn_Retension_dashboard/edit/main/README.md#data-visualization-dashboard)
-- [Insights](https://github.com/yogeshkasar778/PWC_task_2-Customer_Churn_Retension_dashboard/edit/main/README.md#insights)
+- [Data Preparation](#data-preparation)
+- [Data Modeling](#data-modeling)
+- [Data Analysis (DAX)](#data-analysis-dax)
+- [Data Visualization (Dashboard)](#data-visualization-dashboard)
+- [Insights](#insights)
 - [Recommendation](#recommendation)
 
 ## Problem Statement :
