@@ -4,8 +4,8 @@
 
 ## Table of Contents:
 
-- [Problem Statement](#Problem Statement)
-- [Datasource](#Datasource)
+- [Problem Statement](#problem_Statement)
+- [Datasource](#datasource)
 - [Data Preparation](https://github.com/yogeshkasar778/PWC_task_2-Customer_Churn_Retension_dashboard/edit/main/README.md#data-preparation)
 - [Data Modeling](https://github.com/yogeshkasar778/PWC_task_2-Customer_Churn_Retension_dashboard/edit/main/README.md#data-modeling)
 - [Data Analysis (DAX)](https://github.com/yogeshkasar778/PWC_task_2-Customer_Churn_Retension_dashboard/edit/main/README.md#data-analysis-dax)
