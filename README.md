@@ -1,9 +1,6 @@
 # PWC Power BI Virtual work experience - Customer Churn Retention
 
-![PwC Power BI Virtual Case Experience](https://user-images.githubusercontent.com/118357991/227788348-b988c4df-7923-46d6-8af7-102b8042f721.png)
-
 ## Table of Contents:
-
 - [Problem Statement](#Problem-Statement)
 - [Datasource](#datasource)
 - [Data Preparation](#data-preparation)
